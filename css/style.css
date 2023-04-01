@@ -383,8 +383,8 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: rgba(0, 0, 0, 1);
-  height: 70px;
+  background-color: rgb(21, 42, 113);
+  height: 200px;
   position: fixed;
   top: 0;
   width: 100%;
